@@ -1,3 +1,3 @@
-module logs
+module github.com/s3cu1n4/logs
 
-go 1.18
+go 1.16
